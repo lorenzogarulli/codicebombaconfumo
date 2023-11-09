@@ -28,9 +28,9 @@ parte il timer
 
 8 step 
 per disarmare la bomba bisogna premere * prima del codice. 
-se il codice è corretto ti dira bomba disinnescata e si accenderà il led verde altrimenti.... 
+se il codice è corretto ti dira bomba disinnescata e si accenderà il led verde fisso altrimenti.... 
 
 se si sbaglia il codice: 
 prima volta dimezza il tempo 
 seconda volta dimezza il tempo e amenta la velocità del timer 
-terza volta esplode la bomba e si accendono tutti i led e emette fumo
+terza volta esplode la bomba e si accendono tutti e 3 i led ad intermittenza e fischio ad intermittenza e emette fumo (effetto strabiliante)
